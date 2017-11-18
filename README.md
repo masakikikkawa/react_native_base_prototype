@@ -1,7 +1,7 @@
-# react_native_form_prototype
+# react_native_base_prototype
 
 #### 概要
-* 簡易フォームを表示するアプリ
+* デザインされたボタンなどを表示するアプリ
 
 #### 環境構築
 ```
